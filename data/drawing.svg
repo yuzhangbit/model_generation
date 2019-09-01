@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21cm"
+   height="29.700001cm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg821"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="drawing.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.01"
+     inkscape:cx="21518.737"
+     inkscape:cy="-5391.7822"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="cm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1426" />
+  </sodipodi:namedview>
+  <defs
+     id="defs815">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1430"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect1410"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1368"
+       is_visible="true" />
+  </defs>
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -7199.9998,-103.00001 c 775.0288,-528.69096 1728.2157,-705.8986 2644.8864,-905.64459 916.6708,-199.7461 1867.7168,-455.8652 2555.1134,-1094.3554 387.16,-359.6146 667.9775,-823.6428 857.9309,-1316.7282 189.95341,-493.0855 292.30046,-1015.959 356.9414,-1540.3988 129.28186,-1048.8797 112.49076,-2121.8286 385.12771,-3142.8729 415.372797,-1555.5999 1501.58449,-2894.1301 2870.03079,-3742.5291 1368.4463,-848.398 3000.6707,-1224.995 4610.6615,-1206.146 3219.9817,37.698 6226.5227,1582.717 8919.3077,3348.6751 2222.857,1457.7742 4352.061,3114.2153 6000,5199.9999 1811.817,2293.2042 3008.901,5143.60927 2985.769,8066.0963 -11.566,1461.2436 -328.913,2924.8007 -969.836,4238.0348 C 23375.01,9114.3651 22407.096,10273.419 21200,11097 c -1404.959,958.58 -3093.775,1442.352 -4786.933,1603.6 -1693.158,161.248 -3400.605,14.246 -5087.753,-200.97 C 7951.0189,12069.198 4473.492,11372.127 1200,12297 c -1868.9811,528.051 -3567.517,1563.532 -5446.9363,2053.135 -939.7097,244.801 -1930.0486,348.786 -2884.6376,170.624 C -8086.1629,14342.596 -9003.963,13863.63 -9600,13097 c -381.8341,-491.12 -621.469,-1084.082 -738.823,-1695.002 -117.353,-610.921 -115.759,-1240.343 -47.015,-1858.6234 137.488,-1236.5599 538.5668,-2427.014 785.838,-3646.3747 220.3598,-1086.6535 319.2346,-2199.6493 626.6134,-3264.9626 307.3788,-1065.3134 857.4337,-2110.21392 1773.3868,-2735.03731 z"
+       id="path1428"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1430"
+       inkscape:original-d="M -7199.9998,-103.00001 C -6400.0001,-2102.9997 -3733.333,-1436.3336 -2000,-2103 -266.66692,-2769.6665 -933.33307,-6103.0003 -399.99999,-8102.9999 133.33307,-10103 10533.334,-9169.6668 16000,-9702.9999 c 5466.666,-533.3331 4000,3466.6663 6000,5199.9999 1999.999,1733.3335 -533.333,10399.9997 -800,15600 -266.667,5200 -13333.3333,799.999 -20000,1200 -6666.6668,400 -7199.9996,533.333 -10800,800 -3600,266.667 3e-4,-4800.0004 0,-7200.0001 0,-2399.9996 1600.0005,-4000.0002 2400.0002,-5999.99991 z" />
+  </g>
+</svg>
